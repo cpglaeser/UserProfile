@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TextView padding-->
+    <dimen name="text_view_padding">8dp</dimen>
+    <!-- ImageView padding-->
+    <dimen name="image_view_padding">40dp</dimen>
+    <!-- InfoLayout padding-->
+    <dimen name="info_layout_padding">156dp</dimen>
+</resources>
